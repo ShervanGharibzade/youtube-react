@@ -16,6 +16,6 @@ npm start
 
 ### Compiles and minifies for production
 ```
-npm build
+npm run build
 ```
 
