@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ShervanGharibzade/youtube-react/static/css/main.7064deb2.css",
-    "main.js": "/ShervanGharibzade/youtube-react/static/js/main.b5270595.js",
-    "index.html": "/ShervanGharibzade/youtube-react/index.html",
-    "main.7064deb2.css.map": "/ShervanGharibzade/youtube-react/static/css/main.7064deb2.css.map",
-    "main.b5270595.js.map": "/ShervanGharibzade/youtube-react/static/js/main.b5270595.js.map"
+    "main.css": "/youtube-react/static/css/main.7064deb2.css",
+    "main.js": "/youtube-react/static/js/main.b5270595.js",
+    "index.html": "/youtube-react/index.html",
+    "main.7064deb2.css.map": "/youtube-react/static/css/main.7064deb2.css.map",
+    "main.b5270595.js.map": "/youtube-react/static/js/main.b5270595.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
