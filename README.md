@@ -1,6 +1,6 @@
 # Youtube-React
 
-Youtube-React is a clone project of youtube and build with react and material ui , axios , react-router-dom.
+Youtube-React is like project of youtube and build with react and material ui , axios , react-router-dom.
 it's spa page.
 
 
